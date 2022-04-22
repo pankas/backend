@@ -22,7 +22,7 @@
     "lodash": "^4.17.15",
     "mongodb": "^3.4.1",
     "mongoose": "^5.8.2",
-    "nconf": "^0.10.0",
+    "nconf": "^0.11.4",
     "neo4j": "^2.0.0-RC2",
     "neo4j-driver": "^4.0.1",
     "node-uuid": "^1.4.8",
